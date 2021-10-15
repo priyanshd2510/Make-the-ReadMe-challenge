@@ -1,65 +1,92 @@
-
-# Make the ReadMe challenge
-Participate in Make the readme challenge if you want to win ***GitHub t-shirt swag***.
-In this challenge participants have to make creative and informative readme for their GitHub profile.
-
-## Accepting submissions till 10th October 2021.
-
-
-
-
-## How to participate
-
-1. This challenge is only for students studying in CHARUSAT.
-2. Create your profile readme and contribute to this repo, see [contributing.md](https://github.com/clubgamma/Make-the-ReadMe-challenge/blob/main/CONTRIBUTING.md) before contributing.
-3. Submissions are accepted till ***10th October 2021***.
-4. The one readme which we find most creative and informative will be considered as winner and will be awarded GitHub swag.
-
+<p align="center"><img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif' width='300"'><p>
+ 
+ <h4 align="center"> 
   
-## Some examples of good readme's
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/>, I'm Priyansh Desai </h1>
+ 
+ 
 
-- [Rudra Barad](https://github.com/rudrabarad/rudrabarad/blob/master/README.md)
-- [Hetvi Hadvani](https://github.com/Hetvi07/Hetvi07/blob/main/README.md)
-- [Yash Patel](https://github.com/yashpatel458/yashpatel458/blob/main/README.md)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+to+do+DevREL...)](https://git.io/typing-svg)
+  <img width="50%" align="right" alt="Github" src="pics/code.gif" /> 
 
+👉 I’m currently working on  <strong>college management application</strong>  <br>
+👉 <strong>I’m currently learning 
+</strong> of <strong>amazon web services</strong>  <br>
+👉 All of my projects are available at  <a href="https://priyanshd2510.github.io/portfolio/" class="pics"><img src="pics/p.png" height="20vh">  </a><br>
+👉 Know about my experiences (https://drive.google.com/drive/u/0/folders/1BLcxNCN2RMC0ZGiOsteHtm3cMIVcyrag)
 
+I love to spend time at <strong>GitHub</strong> :octocat:
 
+📝  I regularly write articles on  <a href="https://medium.com/@priyanshdesai2510" class="pics"><img src="pics/medium.png" height="36vh">  </a>
+ 
 
-  
-## But how to make this kind of ReadMe's?
+⚡ In my free time, I love to play tabel Tennis  <img src="pics/tt.png" height="20vh">, listen to songs  <img src="pics/songs.png" height="20vh"> and watching movies <img src="pics/movies.png" height="20vh"> 
+. </h4><br>
 
-If you are new to GitHub and have this kind of question here is a [tutorial](https://www.youtube.com/watch?v=LooNWF67jrk) for you my friend.
-
-![](https://i.kym-cdn.com/entries/icons/original/000/029/827/cover5.jpg)
-
-  
-## Contributing
-
-Contributions are always welcome!
-
-See [contributing.md](https://github.com/clubgamma/Make-the-ReadMe-challenge/blob/main/CONTRIBUTING.md) for ways to get started.
-
-Please adhere to this project's [code of conduct]().
-
-  
-## Contact Us
-
-**To know more about us, visit [official website](https://clubgamma.github.io/) of Club Gamma.**
-
-**To know more about how Club Gamma is going to celebrate Hacktoberfest, click [here](https://clubgamma.github.io/hacktoberfest2021/)**
+![snake gif](https://github.com/Priyanshd2510/Priyanshd2510/blob/output/github-contribution-grid-snake.gif)
+![Priyansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Priyanshd2510&theme=dracula)
 
 
-<p align="center">
-  <img src="https://24.media.tumblr.com/4988837daade2ca54f40e1b8abc5b038/tumblr_mztezamS8s1qm9fxho1_500.gif" />
+
+
+-----
+
+
+
+
+
+
+
+<p>
+<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Priyanshd2510&show_icons=true&theme=radical&count_private=true%27"/>
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshd2510&count_private=true&theme=radical" alt="Priyanshd2510"/>
 </p>
 
-<br>
-<div align="center">  
-<i>If you want to add any feature or if you found a bug, feel free to open an issue</i><br><br>
+ <p align="center"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshd2510&count_private=true&theme=radical&layout=compact" alt="Priyanshd2510" /></p>
+ 
+ <p align="center"> 
+<div align="center">
+  <h4>🏆 Github Profile Trophies</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=Priyanshd2510&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  </a>
+</div><hr>
 
-![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=white)
-![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
-<a href="https://github.com/clubgamma/spotify-web-clone/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-blue"/></a><br>
-<br>
 
-</div>
+<img src="pics/trial.svg" alt="stacks" width = "100%"/>
+
+
+
+![GitHub metrics](https://metrics.lecoq.io/Priyanshd2510)<br><br>
+<h2 align="left">Coding Activity</h2>
+
+> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+```
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
+
+
+
+
+## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+<p align="left">
+<div class="footer" id="top3">
+  <center> 
+   <a href="https://www.linkedin.com/in/priyansh-desai-065187182/" class="pics"><img src="pics/linkedin.svg" height="36vh">  </a>
+   <a href="https://github.com/priyanshd2510" class="pics"> <img src="pics/github.svg" height="36vh"></center></a>
+    <a href="https://twitter.com/home?lang=en" class="pics"><img src="pics/twitter.svg" height="36vh">  </a>
+    <a href="https://www.instagram.com/p_poke/" class="pics"><img src="pics/instagram.svg" height="36vh">  </a>
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=priyanshdesai2510@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
+  
+  </div>
+
+<hr/>
+
